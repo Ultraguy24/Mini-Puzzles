@@ -101,6 +101,176 @@
         "7": { "row": 3, "col": 0 },
         "8": { "row": 4, "col": 0 }
       }
+    },
+    {
+      "id": 4,
+      "solution": [
+        ["", "S", "A", "S", "H"],
+        ["S", "H", "A", "K", "A"],
+        ["T", "A", "R", "O", "T"],
+        ["A", "D", "O", "R", "E"],
+        ["R", "E", "N", "T", ""]
+      ],
+      "acrossClues": {
+        "1": "Ceremonial band (4)",
+        "5": "First official state hand gesture, following a 2024 Hawaiian bill (5)",
+        "6": "Deck with the Major and Minor Arcana (5)",
+        "7": "Just love (5)",
+        "8": "Boardwalk has the highest one on a Monopoly board (4)"
+      },
+      "downClues": {
+        "1": "Cool place to be on a sunny day (5)",
+        "2": "Name that might come first during an alphabetical roll call (5)",
+        "3": "Hybrid athletic garment (5)",
+        "4": "Just loathe (4)",
+        "5": "One whose name is in lights (4)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 1 },
+        "2": { "row": 0, "col": 2 },
+        "3": { "row": 0, "col": 3 },
+        "4": { "row": 0, "col": 4 },
+        "5": { "row": 1, "col": 0 },
+        "6": { "row": 2, "col": 0 },
+        "7": { "row": 3, "col": 0 },
+        "8": { "row": 4, "col": 0 }
+      }
+    },
+    {
+      "id": 5,
+      "solution": [
+        ["", "", "S", "A", "M"],
+        ["S", "P", "A", "C", "E"],
+        ["Z", "E", "B", "R", "A"],
+        ["A", "P", "R", "I", "L"],
+        ["", "", "A", "D", "S"]
+      ],
+      "acrossClues": {
+        "1": "Uncle ___ (3)",
+        "4": "It's full of stars (5)",
+        "6": "It's full of stripes (5)",
+        "7": "Month when the American Revolutionary War began (5)",
+        "8": "4th of July sales promotions, e.g. (3)"
+      },
+      "downClues": {
+        "1": "Big brand of hummus (5)",
+        "2": "Foul-smelling (5)",
+        "3": "Breakfast, lunch and dinner (5)",
+        "4": "Singer who performed 'All the Stars' at Kendrick Lamar's Super Bowl halftime show (3)",
+        "5": "Lively energy (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 2 },
+        "2": { "row": 0, "col": 3 },
+        "3": { "row": 0, "col": 4 },
+        "4": { "row": 1, "col": 0 },
+        "5": { "row": 1, "col": 1 },
+        "6": { "row": 2, "col": 0 },
+        "7": { "row": 3, "col": 0 },
+        "8": { "row": 4, "col": 2 }
+      }
+    },
+    {
+      "id": 6,
+      "solution": [
+        ["", "", "S", "A", "M"],
+        ["S", "P", "A", "C", "E"],
+        ["Z", "E", "B", "R", "A"],
+        ["A", "P", "R", "I", "L"],
+        ["", "", "A", "D", "S"]
+      ],
+      "acrossClues": {
+        "1": "Uncle ___ (3)",
+        "4": "It's full of stars (5)",
+        "6": "It's full of stripes (5)",
+        "7": "Month when the American Revolutionary War began (5)",
+        "8": "4th of July sales promotions, e.g. (3)"
+      },
+      "downClues": {
+        "1": "Big brand of hummus (5)",
+        "2": "Foul-smelling (5)",
+        "3": "Breakfast, lunch and dinner (5)",
+        "4": "Singer who performed 'All the Stars' at Kendrick Lamar's Super Bowl halftime show (3)",
+        "5": "Lively energy (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 2 },
+        "2": { "row": 0, "col": 3 },
+        "3": { "row": 0, "col": 4 },
+        "4": { "row": 1, "col": 0 },
+        "5": { "row": 1, "col": 1 },
+        "6": { "row": 2, "col": 0 },
+        "7": { "row": 3, "col": 0 },
+        "8": { "row": 4, "col": 2 }
+      }
+    },
+    {
+      "id": 7,
+      "solution": [
+        ["R", "I", "N", "G", ""],
+        ["E", "M", "I", "R", ""],
+        ["F", "I", "N", "A", "L"],
+        ["", "N", "E", "P", "O"],
+        ["", "D", "R", "E", "W"]
+      ],
+      "acrossClues": {
+        "1": "Something made of gold or onion (4)",
+        "5": "Title for a Mideast ruler (4)",
+        "6": "'Jeopardy!' round with just one clue (5)",
+        "8": "___ baby (4)",
+        "9": "Competed in Pictionary (4)"
+      },
+      "downClues": {
+        "1": "Soccer official (3)",
+        "2": "'Yeah, that bothers me' (5)",
+        "3": "San Francisco football player, informally (5)",
+        "4": "Flavor of purple Skittles (5)",
+        "7": "Flo Rida hit with the lyric 'Apple Bottom jeans, boots with the fur' (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 0 },
+        "2": { "row": 0, "col": 1 },
+        "3": { "row": 0, "col": 2 },
+        "4": { "row": 0, "col": 3 },
+        "5": { "row": 1, "col": 0 },
+        "6": { "row": 2, "col": 0 },
+        "7": { "row": 2, "col": 4 },
+        "8": { "row": 3, "col": 1 },
+        "9": { "row": 4, "col": 1 }
+      }
+    },
+    {
+      "id": 8,
+      "solution": [
+        ["", "", "H", "U", "G"],
+        ["", "P", "U", "R", "E"],
+        ["T", "A", "N", "G", "O"],
+        ["A", "C", "T", "E", "D"],
+        ["J", "E", "S", "S", "E"]
+      ],
+      "acrossClues": {
+        "1": "Arm-y greeting (3)",
+        "4": "Undiluted ... or a country with its vowels swapped (4)",
+        "5": "Ballroom dance ... or a country with its vowels swapped (5)",
+        "6": "Played a role (5)",
+        "9": "Eisenberg of 'The Social Network' (5)"
+      },
+      "downClues": {
+        "1": "Ketchup brand (5)",
+        "2": "Eggs on (5)",
+        "3": "Crystal-lined rock (5)",
+        "4": "Marathoner's concern (4)",
+        "5": "___ Mahal (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 0 },
+        "2": { "row": 0, "col": 1 },
+        "3": { "row": 0, "col": 2 },
+        "4": { "row": 1, "col": 1 },
+        "5": { "row": 2, "col": 0 },
+        "6": { "row": 3, "col": 0 },
+        "7": { "row": 4, "col": 0 }
+      }
     }
   ]
 }
