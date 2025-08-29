@@ -1,0 +1,38 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "solution": [
+        ["", "P", "U", "B", ""],
+        ["", "U", "S", "A", ""],
+        ["C", "L", "U", "B", "S"],
+        ["P", "S", "A", "K", "I"],
+        ["R", "E", "L", "A", "X"]
+      ],
+      "acrossClues": {
+        "1": "Place to pour a pint (3)",
+        "4": "Host of the 2028 Olympics, for short (3)",
+        "5": "Black suit (5)",
+        "7": "Political commentator Jen (5)",
+        "8": "Kick one's feet up (5)"
+      },
+      "downClues": {
+        "1": "Sign of life (5)",
+        "2": "Regular patron's order, with 'the' (5)",
+        "3": "Loaf with a chocolate swirl (5)",
+        "5": "Skill practiced on dummies, for short (3)",
+        "6": "Age at which Tiger Woods made his first hole-in-one (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 1 },
+        "2": { "row": 0, "col": 2 },
+        "3": { "row": 0, "col": 3 },
+        "4": { "row": 1, "col": 1 },
+        "5": { "row": 2, "col": 0 },
+        "6": { "row": 2, "col": 4 },
+        "7": { "row": 3, "col": 0 },
+        "8": { "row": 4, "col": 0 }
+      }
+    }
+  ]
+}
