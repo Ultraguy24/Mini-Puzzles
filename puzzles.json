@@ -34,5 +34,39 @@
         "8": { "row": 4, "col": 0 }
       }
     }
+    {
+      "id": 2,
+      "solution": [
+        ["", "E", "E", "B", ""],
+        ["S", "M", "U", "R", "F"],
+        ["P", "A", "L", "E", "O"],
+        ["F", "I", "B", "E", "E"],
+        ["", "L", "S", "D", ""]
+      ],
+      "acrossClues": {
+        "1": "Recede, as the tide (3)",
+        "4": "Fictional creature voiced by Rihanna, James Corden or Nick Offerman, in a 2025 animated movie (5)",
+        "6": "Diet that harkens back to prehistoric times (5)",
+        "7": "It's tough to digest (5)",
+        "8": "Trippy drug, for short (3)"
+      },
+      "downClues": {
+        "1": "One might start 'Hope you are well' (4)",
+        "2": "Future tulips (5)",
+        "3": "Munchkin or Maine Coon (5)",
+        "5": "No. on a sunscreen bottle (3)",
+        "6": "Supportive of (3)"
+      },
+      "cluePositions": {
+        "1": { "row": 0, "col": 1 },
+        "2": { "row": 0, "col": 2 },
+        "3": { "row": 0, "col": 3 },
+        "4": { "row": 1, "col": 0 },
+        "5": { "row": 1, "col": 4 },
+        "6": { "row": 2, "col": 0 },
+        "7": { "row": 3, "col": 0 },
+        "8": { "row": 4, "col": 1 }
+      }
+    }
   ]
 }
